@@ -17,6 +17,7 @@ Estou constantemente a aprender, desenvolver projetos e explorar novas tecnologi
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de DDM no ISTEC
+- 💻 Interessado em desenvolvimento de UI/UX
 - 💻 Interessado em desenvolvimento de software
 - 🌐 Desenvolvimento Web
 - 📱 Desenvolvimento Mobile
