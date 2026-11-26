@@ -40,6 +40,12 @@ Estou constantemente a aprender, desenvolver projetos e explorar novas tecnologi
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
+### Design e UI/UX
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
 ---
 
 ## 📚 Atualmente a aprender
